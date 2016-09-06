@@ -1,0 +1,6 @@
+c:\users\daldridge\documents\visual studio 2013\Projects\netload_nrpe_nt\netload_nrpe_nt\bin\Release\netload_nrpe_nt.exe
+c:\users\daldridge\documents\visual studio 2013\Projects\netload_nrpe_nt\netload_nrpe_nt\bin\Release\netload_nrpe_nt.pdb
+c:\users\daldridge\documents\visual studio 2013\Projects\netload_nrpe_nt\netload_nrpe_nt\obj\Release\netload_nrpe_nt.exe
+c:\users\daldridge\documents\visual studio 2013\Projects\netload_nrpe_nt\netload_nrpe_nt\obj\Release\netload_nrpe_nt.pdb
+C:\Users\DAldridge\Documents\Visual Studio 2013\Projects\netload_nrpe_nt\netload_nrpe_nt\bin\Release\netload_nrpe_nt.exe.config
+C:\Users\DAldridge\Documents\Visual Studio 2013\Projects\netload_nrpe_nt\netload_nrpe_nt\obj\Release\netload_nrpe_nt.csprojResolveAssemblyReference.cache
